@@ -1,0 +1,101 @@
+ 
+
+Visual Soft Development
+Rr.Tivarit, Gjakove
+044/206-926
+-------------------------------------------------------------------------
+
+Raporti i shitjes
+Prej: 02/10/2007 Deri: 02/10/2007
+
+
+Barkodi        Pershkrimi                                        Qmimi          TVSH           Sasia     Total
+
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+3              ARTIKULLI 3                                       2.15           0              1         2.15
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+6              ARTIKULLI 6                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+5              ARTIKULLI 5                                       0.49           0              1         0.49
+4              ARTIKULLI 4                                       0.45           0              1         0.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+2              ARTIKULLI 2                                       2.65           0              1         2.65
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+1              ARTIKULLI 1                                       1.45           0              1         1.45
+
+
+TOTAL : 0.00
+
